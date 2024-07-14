@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MSI Pulse",
+      "brand": "MSI",
+      "category": "Computers",
+      "price": 899,
+      "description": "laptop msi yang bagus abis",
+      "imageFilename": "msi_pulse.jpeg",
+      "createdAt": "2024-07-13T17:46:54.8900000"
+    },
+    {
+      "id": 2,
+      "name": "Lenovo Legion 5i Pro",
+      "brand": "Lenovo",
+      "category": "Computers",
+      "price": 1399,
+      "description": "laptop lenovo high spec",
+      "imageFilename": "2702232750.jpg",
+      "createdAt": "2024-07-13T17:46:54.8900000"
+    },
+    {
+      "id": 3,
+      "name": "ROG Strix",
+      "brand": "Asus",
+      "category": "Computers",
+      "price": 879,
+      "description": "laptop asus rog yang bagus abis",
+      "imageFilename": "rog_strix.jpeg",
+      "createdAt": "2024-07-13T17:46:54.8900000"
+    },
+    {
+      "id": 4,
+      "name": "Lenovo LOQ",
+      "brand": "Lenovo",
+      "category": "Computers",
+      "price": 699,
+      "description": "laptop gaming lenovo budget yang sudah sangat mantul abis",
+      "imageFilename": "lonovo_loq.jpeg",
+      "createdAt": "2024-07-13T17:46:54.8900000"
+    },
+    {
+      "id": 5,
+      "name": "MSI Titan",
+      "brand": "MSI",
+      "category": "Computers",
+      "price": 5099,
+      "description": "laptop msi sultan yang sudah tidak wajar",
+      "imageFilename": "msi_titan_gt77.jpg",
+      "createdAt": "2024-07-13T17:46:54.8900000"
+    },
+    {
+      "id": 6,
+      "name": "Gamen Titan",
+      "brand": "Gamen",
+      "category": "Keyboard",
+      "price": 49,
+      "description": "Keyboard gamen yang bagus abis",
+      "imageFilename": "gamen_titan2.jpg",
+      "createdAt": "2024-07-13T17:46:54.8900000"
+    },
+    {
+      "id": 7,
+      "name": "Fantech Helios II Pro",
+      "brand": "Fantech",
+      "category": "Mouse",
+      "price": 79,
+      "description": "Mouse fantech yang memiliki triple koneksi",
+      "imageFilename": "fantech_helios_2pro.jpeg",
+      "createdAt": "2024-07-13T17:46:54.8900000"
+    },
+    {
+      "id": 8,
+      "name": "IQOO 12",
+      "brand": "IQOO",
+      "category": "Handphone",
+      "price": 999,
+      "description": "Handphone IQOO yang sudah menggunakan snapdragon 8 gen 3",
+      "imageFilename": "iqoo_12.png",
+      "createdAt": "2024-07-13T17:46:54.8900000"
+    }
+  ]
+}
